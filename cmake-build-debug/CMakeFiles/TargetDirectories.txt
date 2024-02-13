@@ -1,0 +1,9 @@
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/class-manager.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/install.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/install/local.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/install/strip.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/class-manager_autogen_timestamp_deps.dir
+D:/managers/class-manager-cmake/cmake-build-debug/CMakeFiles/class-manager_autogen.dir

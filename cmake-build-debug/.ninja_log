@@ -1,0 +1,9 @@
+# ninja log v5
+11	1992	7295001064417347	class-manager_autogen/timestamp	6678b82e7dce9ad9
+11	1992	7295001064417347	class-manager_autogen/mocs_compilation.cpp	6678b82e7dce9ad9
+11	1992	7295001064417347	D:/managers/class-manager-cmake/cmake-build-debug/class-manager_autogen/timestamp	6678b82e7dce9ad9
+11	1992	7295001064417347	D:/managers/class-manager-cmake/cmake-build-debug/class-manager_autogen/mocs_compilation.cpp	6678b82e7dce9ad9
+1993	7019	7295001116288909	CMakeFiles/class-manager.dir/class-manager_autogen/mocs_compilation.cpp.obj	12d2b577dfc7d149
+2061	7366	7295001119640904	CMakeFiles/class-manager.dir/main.cpp.obj	44b8383e2d1467ce
+2027	7483	7295001120921302	CMakeFiles/class-manager.dir/mainwindow.cpp.obj	e4ef065e6ec04acd
+7483	8120	7295001127221006	class-manager.exe	b6dfe7befec22314
